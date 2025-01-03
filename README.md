@@ -11,7 +11,7 @@
 
 1. [Create a D1 database.](https://developers.cloudflare.com/d1/get-started/#3-create-a-database)
 2. Create a `.env` file and a `wrangler.toml` file with the necessary information (e.g., find and
-   replace all "TBA" and "nextjs-d1-drizzle-cloudflare-pages" values in the code).
+   replace all "TBA" and "nextjs-d1-drizzle-cloudflare-pages1" values in the code).
 3. Install the app's dependencies:
 
 ```sh
