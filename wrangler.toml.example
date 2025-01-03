@@ -8,5 +8,5 @@ pages_build_output_dir = ".vercel/output/static"
 # Docs: https://developers.cloudflare.com/pages/functions/bindings/#d1-databases
 [[d1_databases]]
 binding = "DB"
-database_name = "nextjs-d1-drizzle-cloudflare-pages-db"
-database_id = ""
+database_name = "prod-d1-tutorial"
+database_id = "a75438ed-1da9-4458-a2c7-af2cd55e5d9b"
